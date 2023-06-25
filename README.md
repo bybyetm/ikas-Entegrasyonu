@@ -39,3 +39,6 @@ FİLTRELEME YAPIN
 
 isteyenler projenin çalışır halini buradan da indirebilirler
 https://drive.google.com/file/d/1M07GvdLD_VFDoD5AZ7dH2VaGXyq4i6X9/view?usp=sharing
+
+//Faydalandığım kaynak
+https://ikas.dev/docs/intro
