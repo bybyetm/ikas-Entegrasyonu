@@ -1,17 +1,18 @@
 Arkadaşlar projede doldurulması gereken alanlar var onları kendinize göre doldurup değiştirebilirsiniz
 
 Doldurulması gereken şeyler
-    ---------------------------
+---------------------------
     
         string Tokenendpoint = "";
         string client_id = "";
         string client_secret = "";
 
-    Değişmesi gereken şeyler
-    ------------------------
+Değişmesi gereken şeyler
+------------------------
      
 
-  SORGU GÖNDERİN
+SORGU GÖNDERİN
+
     string query = @"
             query Query($name: StringFilterInput) {
                 listProductBrand(name: $name) {
@@ -20,8 +21,9 @@ Doldurulması gereken şeyler
                     updatedAt
                 }
             }";
+            
+FİLTRELEME YAPIN
 
-   FİLTRELEME YAPIN
     var variables = new
     {
 
