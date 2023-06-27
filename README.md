@@ -37,7 +37,7 @@ Filtreleme Yapın
 
 
 
-İsteyenler Projenin Çalışır Halini Buradan da İndirebilirler
+İsteyenler Projenin Tam Halini Buradan da İndirebilirler
 ------------------------
 
 https://drive.google.com/file/d/1M07GvdLD_VFDoD5AZ7dH2VaGXyq4i6X9/view?usp=sharing
