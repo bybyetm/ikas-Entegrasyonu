@@ -12,7 +12,6 @@ Değişmesi Gereken Şeyler
      
 
 Sorgu Gönderin
-------------------------
 
     string query = @"
             query Query($name: StringFilterInput) {
@@ -24,7 +23,6 @@ Sorgu Gönderin
             }";
             
 Filtreleme Yapın
-------------------------
 
     var variables = new
     {
